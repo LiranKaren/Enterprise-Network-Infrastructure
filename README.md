@@ -14,7 +14,7 @@ Each site includes its own Layer 2 and Layer 3 infrastructure, user endpoints, a
 
 ## 🗺️ Topology Overview
 
-![Network Topology](topology.png)
+![Network Topology](screenshots/topology.png)
 
 Physical Topology
 
